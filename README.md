@@ -1,4 +1,4 @@
-# Dummy CDF (Cohort Data Format) bulk dummy data generator
+# Dummy CDF (Cohort Data Format) data generator
 
 This Python script is designed to streamline the creation of Cohort Data Format (CDF) JSON files for load-testing purposes, particularly aimed at evaluating queries and data 
 transformations' performance. The script automates the generation of CDF files with unique identifiers, leveraging sample templates stored in a dedicated directory.
